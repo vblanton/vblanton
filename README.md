@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @vblanton. When i was a teenager I followed linux and opensource news daily. I wrote bug reports and was an editor for the kde commit digest for some time.
-- 👀 I’m interested in ... exploring coding and learning more about using git. right now, i am interested in code optimization to conserve environmental resources.
-- 🌱 I’m currently ... taking an introductory cs course offered through harvard
-- 💞️ I’m looking to ... see what other folks are working on and finding something i can participate in.
-- 📫 How to reach me ... tba
+👋 Hello, my name is Vlad and I have been studying software engineering. <br>
+✨ I'm interested ... in programming to solve real world problems.<br>
+💞️ I’m looking to ... see what other folks are working on and find something interesting to help with.<br>
+📫 How to reach me ... my username at gmail.com
 
 <!---
 vblanton/vblanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
