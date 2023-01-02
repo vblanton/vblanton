@@ -1,6 +1,6 @@
 👋 Hello, my name is Vlad. <br>
-✨ I'm interested in ... Javascript, Rust and programming to solve real world problems.<br>
-💞️ I’m looking to ... find something interesting to help with.<br>
+✨ I'm comfortable in ... Javascript and web related technologes.<br>
+💞️ I’m interested in ... learning Rust, solving real world problems with code, and lending a hand with a project.<br>
 📫 How to reach me ... my username at gmail.com
 
 <!---
