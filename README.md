@@ -1,7 +1,7 @@
 👋 Hello, my name is Vlad. <br>
-✨ I'm comfortable in ... Javascript and web related technologes.<br>
-💞️ I’m interested in ... learning Rust<br>
-💭 I think... coding is like remodeling a house, and I have experience with that too.<br>
+✨ I'm comfortable in ... Javascript and a number of related web technologes.<br>
+💞️ I’m interested in ... learning Rust.<br>
+💭 I think... coding is like building a house and regularly remodeling it.<br>
 📫 How to reach me ... [linkedin](https://www.linkedin.com/in/vlad-blanton-95b450133/)
 
 <!---
