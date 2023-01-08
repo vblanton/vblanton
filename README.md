@@ -1,7 +1,7 @@
 👋 Hello, my name is Vlad. <br>
 ✨ I'm comfortable in ... Javascript and web related technologes.<br>
-💞️ I’m interested in ... learning Rust, solving real world problems with code, and lending a hand with a project.<br>
-📫 How to reach me ... my username at gmail.com
+💞️ I’m interested in ... learning Rust<br>
+📫 How to reach me ... [linkedin](https://www.linkedin.com/in/vlad-blanton-95b450133/)
 
 <!---
 vblanton/vblanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
