@@ -1,5 +1,5 @@
 👋 Hello, my name is Vlad. <br>
-✨ I'm comfortable in ... Javascript and a number of related web technologes.<br>
+✨ I'm comfortable in ... Javascript and a number of related web technologies.<br>
 💞️ I’m interested in ... learning Rust.<br>
 💭 I think... coding is like building a house and regularly remodeling it.<br>
 ✍️ Sometimes I write on ... [medium](https://medium.com/@vblanton). <br>
